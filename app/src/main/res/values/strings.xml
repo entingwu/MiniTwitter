@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <!-->Login Page<-->
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="btn_login">Login</string>
+
+    <!-->Search<-->
+    <string name="btn_search">Search</string>
+    <string name="btn_home">Home</string>
+
+    <string name="tweet_text">Love new twitter feathers, looking forward for new addition feather</string>
+    <string name="example_post">What do you think?</string>
+
+</resources>

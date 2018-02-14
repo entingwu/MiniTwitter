@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1002648995778",
+    "firebase_url": "https://facebook-4c6fc.firebaseio.com",
+    "project_id": "facebook-4c6fc",
+    "storage_bucket": "facebook-4c6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002648995778:android:c253155fd960f928",
+        "android_client_info": {
+          "package_name": "edu.neu.entingwu.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002648995778-719otu7e78k49ot805athrk5teee0hel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewbHOPshuY0Ff1G6dfo8SwU5cWetk5Og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
